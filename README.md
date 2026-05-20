@@ -107,7 +107,8 @@ On kali/parrot give the command exploit
 
 <img width="1046" height="557" alt="image" src="https://github.com/user-attachments/assets/59bbcea2-648f-4c48-8add-6322a4498269" />
 
-
+Meterpreter Session Established
+This final screenshot shows a successful reverse TCP Meterpreter connection. The handler receives a session from the target system, establishing remote access between the victim and attacker machine for post-exploitation activities such as screen sharing and system interaction.
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
 
